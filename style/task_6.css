@@ -1,0 +1,469 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body 
+{
+	margin:0 auto;
+	background-color: #938e8c;
+	margin:0px 180px;
+}
+.container
+{
+     background-color: white;
+     padding:0px 50px 40px 40px;
+     width:980px;
+     height:2000px;
+}
+/*头部*/
+header
+{
+	position:relative;
+}
+.ife_url
+{
+	width:110px;
+	height:60px;
+	background-color: #d45d5c;
+
+}
+.ife_url p 
+{
+	color:white;
+	font-size: 12px;
+	font-weight: bold;
+	padding:40px 0px 0px 0px;
+}
+.time
+{
+	color:#d45d5c;
+	font-size: 12px;
+	font-weight: bold;
+	position:absolute;
+	right:0px;
+	bottom:5px;
+	
+}
+.bottom_line
+{
+    height:3px;
+    background-color: #938e8c;
+}
+/*middle*/
+.middle
+{
+	position:relative;
+	
+}
+.middle-img
+{
+     padding:30px 0px;
+     position:relative;
+
+ }
+.middle-img img
+{
+	width:641px;
+	height:301px;
+	
+}
+.block_left
+{
+	width:191px;
+	height:301px;
+	background-color: #75b86b;
+	position:absolute;
+	bottom:32.5px;
+	opacity:0.5;
+}
+.block_right
+{
+	width:191px;
+	height:301px;
+	background-color: #cc8091;
+	position:absolute;
+	bottom:32.5px;
+	left:450px;
+	opacity:0.5;
+}
+.middle_right
+{
+	width:260px;
+	height:301px;
+	position:absolute;
+	right:0px;
+	bottom:32.5px;
+	margin:0 auto;
+
+	
+}
+.middle_right hr 
+{
+	width:203px ;
+	height:3px;
+    background-color: #cc8091;
+    color:#cc8091;
+}
+.middle_right h2
+{
+	font-size: 18px;
+	color:#000;
+	font-family: "Microsoft Yahei";
+	text-decoration: underline #938e8c;
+	line-height: 30px;
+}
+.middle_right h2:first-letter
+{
+	font-size: 28px;
+}
+.middle_right h3
+{
+	font-size: 12px;
+	color:#676767;
+	font-family:"Kai Ti ";
+	line-height:10px;
+}
+ .seven
+{
+	font-size: 116px;
+	color:#75b86b;
+	font-family: "Microsoft Yahei";
+	font-style: oblique;
+}
+.num1
+{
+	font-size: 55px;
+	color:#cc8091;
+	font-family: "Microsoft Yahei";
+}
+.num2
+{
+	font-size: :21px;
+	color:#cc8091;
+	font-family: "Microsoft Yahei";
+	position:relative;
+	bottom:50px;
+	left:80px;
+}
+.num3
+{
+    font-size: :12px;
+	color:#ccc;
+	font-family: "Microsoft Yahei";
+	position:relative;
+	bottom:50px;
+	left:80px;
+}
+
+/*第三部分*/
+.three
+{
+	margin-bottom: 80px;
+	overflow: hidden;
+}
+
+.what
+{
+    width:200px;
+    float:left;
+    margin-right: 20px;
+    
+}
+.what h2
+{
+	font-size: 16px;
+    color: #418c59;
+    font-family: "Microsoft Yahei";
+    font-weight: bold;
+    text-decoration: underline #418c59;
+}
+.what p 
+{
+	font-size: 12px;
+	color: #231815;
+	font-family: "Microsoft Yahei";
+	line-height: 16px;
+	opacity: 0.7;
+}
+.when
+{
+    width:200px;
+    float:left;
+    margin-right: 20px;
+}
+.when p
+{
+	font-size: 12px;
+	color: #231815;
+	font-family: "Microsoft Yahei";
+	line-height: 16px;
+	opacity: 0.7;
+}
+.when h2
+{
+	font-size: 16px;
+    color: #d2994f;
+    font-family: "Microsoft Yahei";
+    font-weight: bold;
+    text-decoration: underline #d2994f;
+}
+.how
+{
+    width:200px;
+    float:left;
+    margin-right: 20px;
+}
+.how h2
+{
+	font-size: 16px;
+    color: #cc7680;
+    font-family: "Microsoft Yahei";
+    font-weight: bold;
+    text-decoration: underline #cc7680;
+}
+.how p
+{
+	font-size: 12px;
+	color: #231815;
+	font-family: "Microsoft Yahei";
+	line-height: 16px;
+	opacity: 0.7;
+}
+.three span
+{
+	font-size: 12px;
+	color: #cd4a48;
+	font-family: "Microsoft Yahei";
+	line-height: 16px;
+	opacity: 0.7;
+}
+/*第四部分*/
+.left-bottom
+{
+	width:480px;
+	border:2px solid red;
+	float: left;
+	
+}
+.the 
+{
+	font-size: 72px;
+	color: #f5e327;
+	font-family: "SimHei";
+	font-weight: bold;
+	font-style: oblique;
+}
+.tech
+{
+	font-size: 42px;
+	color: #11456b;
+	font-family: "SimHei";
+	font-weight: bold;
+	line-height: 16px;
+}
+.qianduan
+{
+	font-size: 33px;
+	color: #11456b;
+	font-family: "SimHei";
+	font-weight: bold;
+}
+.left-bottom hr
+{
+	width:415px;
+	height:2px;
+	color: #11456b;
+}
+.first
+{
+	font-size: 70px;
+	color: #f5e327;
+	font-family: "Microsoft Yahei";
+	float:left;
+}
+ .left-bottom p
+{
+	font-size: 12px;
+	color: #767777;
+	font-family: "SimSun";
+	line-height: 16px;
+}
+.left-bottom article
+{
+	margin:20px 0px 40px 0px;
+}
+/*第五部分*/
+.right-bottom
+{
+	width:458px;
+	border: 2px solid blue;
+	float:right;	
+}
+.right-bottom img
+{
+    width:458px;
+    height:275px;
+
+    
+}
+.tupian
+{
+	position:relative;
+}
+.block-black
+{
+	width:458px;
+	height:61px;
+	background-color:#000;
+	opacity: 0.5;
+	position:relative;	
+	position: absolute;
+	bottom: 0px;
+}
+.green-line
+{
+	width:3px;
+	height:44px;
+	background-color: #75b86b;
+	position: absolute;
+	top:10px;
+	left:40px;
+}
+.block-black p
+{
+	
+	position: absolute;
+	bottom: 10px;
+	left:50px;
+}
+.a1
+{
+	font-size: 26px;
+	color: #fff;
+	font-family: "Microsoft Yahei";
+}
+.a2
+{
+	font-size: 12px;
+	color: #75b86b;
+	font-style: oblique;
+	font-family: "Microsoft Yahei";
+	letter-spacing: 140%;
+}
+blockquote
+{
+	width:459px;
+	height:318px;
+	background-color: #ccc;
+	border:2px solid red;
+	position: relative;
+}
+ul
+{
+	position: absolute;
+	right:10px;
+	left:30px;
+	bottom:220px;
+}
+li 
+{
+	font-size: 16px;
+	color: #5a5b5b;
+	font-family: "SimSun";	
+	text-align: left;
+	line-height: 20px;
+}
+ul span  
+{
+	font-size: 12px;
+	color: #5a5b5b;
+	font-family: "SimSun";
+	font-style: oblique;
+	text-align: right;
+	line-height: 20px;
+}
+.red
+{
+	width:260px;
+	height:160px;
+	background-color: #cc8091;
+	position: absolute;
+	bottom:0px;
+	}
+}
+.verticel-line
+{
+	width:2px;
+	height:86px;
+	background-color: #fff;
+	position:relative;
+	bottom:110px;
+	left:80px;
+
+}
+.zero
+{
+	font-size: 110px;
+	color: #fff;
+	font-family: "Microsoft Yahei";
+	position:relative;
+}
+.number
+{
+	font-size: "21px";
+	color:#fff;
+	font-family: "SimHei";
+	font-style: oblique;
+	line-height: 24px;
+	position:relative;
+	bottom:180px;
+	left:110px;
+}
+
+.hello
+{
+	font-size: 12px;
+	color: #fff;
+	font-family: "SimHei";
+    line-height: 6px;
+}
+.quote
+{
+	position: absolute;
+	bottom: 10px;
+	right:10px;
+	    left:280px;
+}
+.quote p 
+{
+	font-size: 14px;
+	color: #5a5b5b;
+	font-family: "SimSun";
+	font-style: oblique;
+	line-height: 16px;
+	position:relative;
+}
+.quote span
+{
+	font-size: 72px;
+	color: #d45d5c;
+	font-family: "SimHei";
+
+}
+.quote1
+{
+	position: absolute;
+	left:0px;
+	top:0px;
+}
+.quote2
+{
+	position: absolute;
+	right:40px;
+}
+
+
+
+
+
